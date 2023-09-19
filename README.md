@@ -148,14 +148,14 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
 
 **desafio1_gabarito.ipynb**
-   - [ ] Resolução do desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
+   - [x] Resolução do desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
 
 - **scraping.ipynb**
    - [x] Introdução a webscraping com Pandas
 
 - **desafio2.ipynb**
-   - [ ] Desafio: Webscraping simples
-   - [ ] Resolução do desafio: Webscraping simples
+   - [x] Desafio: Webscraping simples
+   - [x] Resolução do desafio: Webscraping simples
 
 
 # Semana 5
@@ -199,6 +199,13 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 - **desafio/desafio1.ipynb**
    - [x] Desafio: Wikipédia com XPath
+   - [x] Resolução do desafio: Wikipédia com XPath
+
+# Semana 6
+
+- **desafio/desafio2.ipynb**
+   - [x] Desafio: Raspador de diários
+   - [x] Resolução do desafio: Raspador de diários
 
 
 
